@@ -123,6 +123,7 @@ Usé Claude durante el ejercicio para:
 - entender el dominio antes de programar (qué es una allocation y cómo se calcula un rebalanceo)
 - revisar mi solución como lo haría un evaluador técnico: modelación, nombres y comentarios
 - discutir la ambigüedad de "Current Price" y refactorizaciones como el renombre de `Action` a `Side`
+
 El diseño del modelo y las decisiones finales son míos. Revisé cada sugerencia antes de incorporarla.
 
 Conversación: https://claude.ai/share/d75ce96a-4a22-4b8a-bfd4-a3e93bb76e57
